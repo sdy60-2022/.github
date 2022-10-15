@@ -1,5 +1,13 @@
-CV DataBase
-----------
+# Welcome to our repo for SDY60
+
+This is the repository that will be used for the course **Design and Implementation of Hardware and Software Systems** of **Hellenic Open University** program **Pervasive and Mobile Computing Systems**.
+
+## Table of Contents
+
+1. [Table with CVs](#cv_database)
+
+## CV_Database
+
 
 | # | AM | Github | 
 | -- | -- | -- |
@@ -9,7 +17,8 @@ CV DataBase
 | 4 | 153513 | [Katerina Thoma](https:/github.com/Katethoma) |
 | 5 | 156765 | [Tsianos Antonios](https://github.com/atsiano81) |
 | 6 | 150674 | [Georgios Sopiadis](https://github.com/gsopy) |
-| 7 | 153515 | [Vasileios Karagiannakis](https://github.com/vkaragia) |
-| 8 | Replace with your AM | [Your Name](Replace with your link) |
+| 7 | 150660 | [Dimitrios Dimotsis](https://gist.github.com/dimidimots) |
+| 8 | 153515 | [Vasileios Karagiannakis](https://github.com/vkaragia) |
 | 9 | Replace with your AM | [Your Name](Replace with your link) |
 | 10 | Replace with your AM | [Your Name](Replace with your link) |
+| 11 | Replace with your AM | [Your Name](Replace with your link) |
