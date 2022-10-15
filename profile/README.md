@@ -1,13 +1,5 @@
-# Welcome to our repo for SDY60
-
-This is the repository that will be used for the course **Design and Implementation of Hardware and Software Systems** of **Hellenic Open University** program **Pervasive and Mobile Computing Systems**.
-
-## Table of Contents
-
-1. [Table with CVs](#cv_database)
-
-## CV_Database
-
+CV DataBase
+----------
 
 | # | AM | Github | 
 | -- | -- | -- |
