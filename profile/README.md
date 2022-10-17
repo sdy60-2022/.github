@@ -21,4 +21,4 @@ This is the repository that will be used for the course **Design and Implementat
 | 8 | 153515 | [Vasileios Karagiannakis](https://github.com/vkaragia) |
 | 9 | 156766 | [Agni Foscolou](https://github.com/afoscolou) |
 | 10 | 153516 | [Sotirios Kotrotsios](https://github.com/sotkot) |
-| 11 | Replace with your AM | [Your Name](Replace with your link) |
+| 11 | 150663 | [Kiriaki Karipidou](https://github.com/kiriakikar) |
