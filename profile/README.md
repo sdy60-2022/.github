@@ -22,4 +22,5 @@ This is the repository that will be used for the course **Design and Implementat
 | 9 | 156766 | [Agni Foscolou](https://github.com/afoscolou) |
 | 10 | 153516 | [Sotirios Kotrotsios](https://github.com/sotkot) |
 | 11 | 150663 | [Kiriaki Karipidou](https://github.com/kiriakikar) |
-| 12 | 150668 | [stdi](https://github.com/stdi)
+| 12 | 150668 | [stdi](https://github.com/stdi) |
+| 13 | 150657 | [Vasilis Angelidis](https://github.com/vangelidis) |
