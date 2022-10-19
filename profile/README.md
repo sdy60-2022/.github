@@ -24,3 +24,4 @@ This is the repository that will be used for the course **Design and Implementat
 | 11 | 150663 | [Kiriaki Karipidou](https://github.com/kiriakikar) |
 | 12 | 150668 | [stdi](https://github.com/stdi) |
 | 13 | 150657 | [Vasilis Angelidis](https://github.com/vangelidis) |
+| 14 | 150675 | [Grigoris Tsagris](https://github.com/gregtsag) |
