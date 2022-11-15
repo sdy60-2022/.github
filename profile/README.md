@@ -1,4 +1,4 @@
-# Welcome to our repo for SDY60
+# Welcome to our team organization for SDY60
 
 This is the repository that will be used for the course **Design and Implementation of Hardware and Software Systems** of **[Hellenic Open University](https://www.eap.gr/en/)** program **Pervasive and Mobile Computing Systems**.
 
